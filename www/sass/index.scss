@@ -17,16 +17,13 @@ nav{
 		align-items:center;
 		padding:0 1.575rem 0 0.75rem;
 		box-sizing:border-box;
-		.nav-box-a{
-			width:5.45rem;
-			height:1.525rem;
-			display:block;
-			background:url(../img/xinwen.jpg) no-repeat;
-			background-size:5.45rem 1.525rem;
-		}
 		.font-w{
 			color:#fff;
 			font-weight:300;
+			text-align:center; 
+			font-size:30px; 
+			font-weight:bold; 
+			text-shadow:1px 1px 4px #EEE;
 		}
 	}
 	.nav-bor{
